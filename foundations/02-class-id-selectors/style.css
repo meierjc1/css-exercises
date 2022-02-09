@@ -3,8 +3,10 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#cooler {
+.cooler {
     font-size: 24px;
+    background-color: rgb(241, 103, 182);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #id_2 {
